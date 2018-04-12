@@ -1,0 +1,6 @@
+* maple-tail
+tail logs with tornado
+
+#+BEGIN_SRC python
+python log.py -c config.py
+#+END_SRC
